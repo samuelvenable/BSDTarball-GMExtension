@@ -38,8 +38,8 @@
   "resources": [
     {"id":{"name":"rm_example","path":"rooms/rm_example/rm_example.yy",},},
     {"id":{"name":"libfilesystem","path":"extensions/libfilesystem/libfilesystem.yy",},},
-    {"id":{"name":"libxprocess","path":"extensions/libxprocess/libxprocess.yy",},},
     {"id":{"name":"libdlgmod","path":"extensions/libdlgmod/libdlgmod.yy",},},
+    {"id":{"name":"libxprocess","path":"extensions/libxprocess/libxprocess.yy",},},
     {"id":{"name":"obj_example","path":"objects/obj_example/obj_example.yy",},},
   ],
   "RoomOrderNodes": [

@@ -12,7 +12,6 @@ function tar_decode(infile, outfile) {
 }
 
 var pid = 0;
-widget_set_owner(string(int64(window_handle())));
 widget_set_button_name(btn_yes, "Create");
 widget_set_button_name(btn_no, "Extract");
 widget_set_icon(working_directory + "icon.png");

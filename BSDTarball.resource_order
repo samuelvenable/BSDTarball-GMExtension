@@ -2,6 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"libfilesystem","order":2,"path":"extensions/libfilesystem/libfilesystem.yy",},
+    {"name":"libdlgmod","order":3,"path":"extensions/libdlgmod/libdlgmod.yy",},
     {"name":"libxprocess","order":1,"path":"extensions/libxprocess/libxprocess.yy",},
   ],
 }
