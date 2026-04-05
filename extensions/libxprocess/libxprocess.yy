@@ -153,6 +153,14 @@
             2,
           ],"documentation":"","externalName":"SetBufferLimitForStandardOutput","help":"SetBufferLimitForStandardOutput(limit)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"CurrentProcessReadFromStandardInput","argCount":0,"args":[],"documentation":"","externalName":"CurrentProcessReadFromStandardInput","help":"CurrentProcessReadFromStandardInput()","hidden":false,"kind":1,"returnType":1,},
+        {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"EnvironmentGetVariableEx","argCount":0,"args":[
+            2,
+            1,
+          ],"documentation":"","externalName":"EnvironmentGetVariableEx","help":"EnvironmentGetVariableEx(procId,name)","hidden":false,"kind":1,"returnType":1,},
+        {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"EnvironmentGetVariableExistsEx","argCount":0,"args":[
+            2,
+            1,
+          ],"documentation":"","externalName":"EnvironmentGetVariableExistsEx","help":"EnvironmentGetVariableExistsEx(procId,name)","hidden":false,"kind":1,"returnType":2,},
       ],"init":"","kind":1,"order":[
         {"name":"ProcessExecute","path":"extensions/libxprocess/libxprocess.yy",},
         {"name":"ProcessExecuteAsync","path":"extensions/libxprocess/libxprocess.yy",},
